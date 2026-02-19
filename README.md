@@ -4,6 +4,10 @@
 
 A lightweight Chrome Extension (Manifest V3) that overlays a full-page ink canvas on any website, letting you sketch freehand, drop shapes and arrows, then save or copy the result as a composited PNG (page + annotations).
 
+[![Privacy: No data collected](https://img.shields.io/badge/Privacy-No%20data%20collected-green?style=flat-square)](https://yashpreetbathla.github.io/InkLayer/privacy-policy.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![Manifest: V3](https://img.shields.io/badge/Manifest-V3-orange?style=flat-square)](manifest.json)
+
 ---
 
 ## Screenshots
@@ -270,6 +274,14 @@ Prevents the canvas and toolbar from being injected into every `<iframe>` on the
 - **Cross-origin iframes** — annotations drawn over an iframe are captured correctly, but the iframe's own content may not render in the screenshot due to browser security restrictions
 - **Chrome system pages** — `chrome://newtab`, `chrome://settings`, etc. cannot be annotated
 - **High-DPI displays** — the canvas uses CSS pixels; on retina screens the screenshot may be higher resolution than the canvas, causing a slight scale mismatch in the composite
+
+---
+
+## Privacy Policy
+
+InkLayer collects no user data. Nothing is stored remotely or transmitted anywhere — all drawing and screenshot capture happens entirely inside your browser.
+
+Full policy: **[yashpreetbathla.github.io/InkLayer/privacy-policy.html](https://yashpreetbathla.github.io/InkLayer/privacy-policy.html)**
 
 ---
 
