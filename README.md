@@ -14,9 +14,12 @@ A lightweight Chrome Extension (Manifest V3) that overlays a full-page ink canva
 
 > _Add your screenshots here_
 
-| Toolbar | Drawing in action | Minimized mode |
+| Toolbar | Drawing in action  |
 |---------|------------------|----------------|
-| ![Toolbar](docs/screenshots/toolbar.png) | ![Drawing](docs/screenshots/drawing.png) | ![Minimized](docs/screenshots/minimized.png) |
+| ![Toolbar](<img width="1440" height="900" alt="1" src="https://github.com/user-attachments/assets/e8cb0207-deba-40a3-b153-29c392aa84ba" />
+) |![Open And Select](<img width="1440" height="900" alt="2" src="https://github.com/user-attachments/assets/49da174c-411f-433b-8f28-9c8efd74439a" />
+) | ![Drawing](<img width="1440" height="900" alt="3" src="https://github.com/user-attachments/assets/3e4d0b1d-c74f-47e3-880f-19f63e498d12" />
+) | 
 
 > **Tip:** Create a `docs/screenshots/` folder and drop your images there.
 
